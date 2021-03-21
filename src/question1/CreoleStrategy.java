@@ -1,5 +1,5 @@
 package question1;
-
+/*
 public class CreoleStrategy {
     @Override
     public cookRice() {
@@ -10,3 +10,4 @@ public class CreoleStrategy {
         System.out.println("Cover and heat through.");
     }
 }
+*/

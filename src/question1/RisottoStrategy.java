@@ -1,5 +1,5 @@
 package question1;
-
+/*
 public class RisottoStrategy {
     @Override
     public cookRice() {
@@ -9,3 +9,4 @@ public class RisottoStrategy {
         System.out.println("Cook the Rice Till It's Mushy.");
     }
 }
+*/
