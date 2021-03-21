@@ -1,5 +1,5 @@
 package question2;
-
+/*
 public class PilafRice implements Cook {
     private Cooking cooking;
 
@@ -12,3 +12,4 @@ public class PilafRice implements Cook {
         return cooking;
     }
 }
+*/
