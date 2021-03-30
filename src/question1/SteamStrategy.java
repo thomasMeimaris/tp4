@@ -1,5 +1,5 @@
 package question1;
-
+/*
 public class SteamStrategy {
     @Override
     public cookRice() {
@@ -8,3 +8,4 @@ public class SteamStrategy {
         System.out.println("Remove from heat, and let stand, covered, for 10 minutes. Fluff with a fork before serving.");
     }
 }
+*/

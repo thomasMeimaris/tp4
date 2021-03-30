@@ -1,5 +1,5 @@
 package question1;
-
+/*
 public class PilafStrategy {
     @Override
     public cookRice() {
@@ -10,3 +10,4 @@ public class PilafStrategy {
         System.out.println("Cover and let cook.");
     }
 }
+*/
